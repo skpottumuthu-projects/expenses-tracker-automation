@@ -1,0 +1,10 @@
+flask==3.0.3
+flask-sqlalchemy==3.1.1
+flask-migrate==4.0.7
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+flask-socketio==5.5.1
+python-socketio==5.12.1
+pydantic==2.10.5
+pydantic[email]==2.10.5
+werkzeug==3.0.3
